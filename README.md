@@ -1,6 +1,6 @@
 ## Data and analysis repository
 
-This respository contains the data and analyses script of Failing, & Theeuwes (2019):  *More capture, more suppression: distractor suppression due to statistical regularities is determined by the magnitude of attentional capture* \
+This respository contains the data and analysis scripts of Failing, & Theeuwes (2019):  *More capture, more suppression: distractor suppression due to statistical regularities is determined by the magnitude of attentional capture* \
 (see also https://osf.io/wnfbj/)
 
 ---
